@@ -4,7 +4,7 @@ This is <b> Ifeanyi Ibem</b>, a result-driven and motivated IT Professional with
 
 I have an extensive experience developing enterprise-wide solutions that span across integration of multiple technologies ranging from Microsoft 365 services 
 (e.g., SharePoint, Power Platform, Azure, MS Teams, Graph API, OneDrive, MS Forms, Exchange, etc) to software engineering tools 
-(e.g., MySQL, MSSQL Server, AWS, Cloud Formation, YAML, DevOps, Python, PHP Laravel, JavaScript, APIs, Data structure and Algorithm, ETL, Data Pipelines, etc)
+(e.g., MySQL, MSSQL Server, AWS, Cloud Formation, YAML, Kubernetes, Docker, Ansible, Python, PHP Laravel, JavaScript, APIs, Data structure and Algorithm, ETL, Data Pipelines, etc)
 
 I am very passionate about technology, so I am always motivated to learn new things that will help in solving any human challenge. 
 
