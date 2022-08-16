@@ -1,10 +1,14 @@
-A  result-driven and motivated IT Professional with many years experience in delivering proven results through information technology. A self-starter who can quickly acclimate to a dynamic and fast paced development environment.
+### WELCOME TO MY PROJECTS WAREHOUSE 😎
 
-I have an extensive experience developing enterprise-wide solutions that span across integration of multiple Microsoft 365 services 
-(e.g., SharePoint, Power Platform, Azure, MS Teams, Graph API, OneDrive, MS Forms, Exchange, etc) and software engineering tools 
+This is <b> Ifeanyi Ibem</b>, a result-driven and motivated IT Professional with many years experience in delivering proven results through information technology. A self-starter who can quickly acclimate to a dynamic and fast paced dynamic environment.
+
+I have an extensive experience developing enterprise-wide solutions that span across integration of multiple technologies ranging from Microsoft 365 services 
+(e.g., SharePoint, Power Platform, Azure, MS Teams, Graph API, OneDrive, MS Forms, Exchange, etc) to software engineering tools 
 (e.g., MySQL, MSSQL Server, AWS, Cloud Formation, YAML, DevOps, Python, PHP Laravel, JavaScript, APIs, Data structure and Algorithm, ETL, Data Pipelines, etc)
 
-In addition, I have an excellent problem-solving and troubleshooting skills, with a strong attention to details in managing customers' success lifestyle. 
+I am very passionate about technology, so I am always motivated to learn new things that will help in solving any human challenge. 
+
+As a result of this, I have an excellent problem-solving and troubleshooting skills, with a strong attention to details in managing customers' success lifestyle. 
 
 Specialty includes but not limited to: 
 
@@ -12,9 +16,9 @@ Specialty includes but not limited to:
 - Database Management
 - Data Engineering
 - Cloud Computing (AWS, AZURE and GCP)
-- Application Support
+- DevOps Engineering
+- Application/Technical Support
 - Customer Service
-- Technincal Support
 - Project Management 
 
 My greatest strength is to bring on board unique and brilliant ideas to transform businesses, and to likewise proffer superior service experience to companies.
